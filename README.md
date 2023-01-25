@@ -2,8 +2,8 @@
 
 I am a frontend developer and I specialize in creating visually appealing and user-friendly web applications. My goal is to design and develop high-quality, responsive and accessible websites and web applications that meet the needs of users, and look great on any device.
 
-### CodeRank 25/01/2023
-![CodeRank 25-01-2023](https://i.imgur.com/xj769h6.png)
+### CodeRank
+![CodeRank 25-01-2023](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=bielcoelho)
 
 ## **Technologies 🛠**
 
