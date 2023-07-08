@@ -10,10 +10,10 @@ I am a frontend developer and I specialize in creating visually appealing and us
 I am proficient in the following technologies but not limited:
 
 - Typescript, JavaScript(ES6+), CSS & HTML
-- React.js, Next.js, Node.js, Jest.js, Vitest, Express.js
-- GraphQL, JSON, Prisma, RESTful, gRPC, WebHooks, WebSockets
-- CSS preprocessors (Sass, Less)
-- JavaScript libraries and frameworks (jQuery, Bootstrap, Material-UI, TailwindCSS)
+- React.js, Next.js, Node.js, Jest.js, Express.js
+- GraphQL, JSON, Prisma, RESTful, gRPC
+- Tailwind, CSS preprocessors (Sass, Less)
+- JavaScript libraries and frameworks (jQuery, Bootstrap, Material-UI)
 - Responsive design and mobile optimization
 - Cross-browser compatibility
 
