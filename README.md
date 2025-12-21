@@ -4,7 +4,7 @@
 
 **Full-Stack Developer** | TypeScript Enthusiast | Building Web Experiences
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bieowcoelho/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/BielCoelho)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BielCoelho)
 
 </div>
@@ -49,28 +49,11 @@ I'm a full-stack developer passionate about building robust, scalable web applic
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-## 💼 Featured Projects
-
-### 🎙️ [TikTok TTS](https://github.com/BielCoelho/tiktok-tts)
-A TikTok Text-to-Speech converter built with TypeScript
-- 🌐 **Live Demo:** [tiktok.gabrielchaves.dev](https://tiktok.gabrielchaves.dev)
-- 💻 **Tech:** TypeScript, Web APIs
-
-### 🔥 Other Projects
-- **[Superchat](https://github.com/BielCoelho/superchat)** - Real-time chat application
-- **[Neo4j Test App](https://github.com/BielCoelho/neo4j-test-app)** - Graph database exploration
-- **[Next 13 App Folder](https://github.com/BielCoelho/next13-app-folder-experimental)** - Experimental Next.js 13 app directory features
-- **[Update Server](https://github.com/BielCoelho/update-server)** - Server for application updates
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BielCoelho&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BielCoelho&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![CodeRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=bielcoelho)
 
 </div>
 
@@ -85,7 +68,7 @@ A TikTok Text-to-Speech converter built with TypeScript
 
 I'm always open to interesting conversations and collaboration opportunities!
 
-- 💼 LinkedIn: [bieowcoelho](https://www.linkedin.com/in/bieowcoelho/)
+- 💼 LinkedIn: [BielCoelho](https://github.com/BielCoelho)
 - 📧 Feel free to reach out for projects, questions, or just to chat about tech
 
 ---
