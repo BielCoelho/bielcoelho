@@ -4,7 +4,7 @@
 
 **Full-Stack Developer** | TypeScript Enthusiast | Building Web Experiences
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/BielCoelho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bielcoelho/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BielCoelho)
 
 </div>
@@ -68,7 +68,7 @@ I'm a full-stack developer passionate about building robust, scalable web applic
 
 I'm always open to interesting conversations and collaboration opportunities!
 
-- 💼 LinkedIn: [BielCoelho](https://github.com/BielCoelho)
+- 💼 LinkedIn: [BielCoelho](https://www.linkedin.com/in/bielcoelho/)
 - 📧 Feel free to reach out for projects, questions, or just to chat about tech
 
 ---
